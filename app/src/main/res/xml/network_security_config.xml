@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">pcs.cnu.edu</domain>
+        <domain includeSubdomains="true">ubuntu.pcs.cnu.edu</domain>
+        <domain includeSubdomains="true"> www.tetonsoftware.com</domain>
+
+    </domain-config>
+</network-security-config>
